@@ -1,0 +1,24 @@
+Fluxo da automação 1:
+Abrir o menu iniciar do Windows;
+Inserir na caixa de diálogo do menu(Metrcis);
+Apertar Enter com o comando press;
+Mapear o clique para a o ícone 'Contas a Receber';
+Realizar o clique;
+Ajustar a data base para o ultimo dia do mês trabalhado;
+Selecionar a opção 'Contas a Receber' no Tipo de Lançamento;
+Selecionar a opção 'Sintético' no Tipo de Relatório;
+Clicar no botão OK;
+Colocar comando para fechar o aplicativo;
+
+Fluxo da automação 2:
+Abrir o menu iniciar do Windows;
+Inserir na caixa de diálogo do menu(Domínio);
+Apertar Enter com o comando press;
+Mapear o clique para a opção 'Relatórios';
+Mapear a opção 'Balancete';
+Ajustar a data Inicial para inicio do mês;
+Ajustar a data Final para fim do mês;
+PROBLEMA: Achar onde faz a exportação para arquivo csv.
+
+
+
