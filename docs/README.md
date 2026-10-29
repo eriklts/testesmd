@@ -6,13 +6,13 @@ Repositório de testes para organizar documentos, procedimentos e arquivos de re
 
 ### Guias e procedimentos
 
-- [Roteiro DWService (PDF)](./docs/roteiro_DWservice.docx.pdf)  
+- [Roteiro DWService (PDF)](./roteiro_DWservice.docx.pdf)  
   Instruções para instalação e configuração do DWService.
 
-- [Orientações de e-mail (PDF)](./docs/email.pdf)  
+- [Orientações de e-mail (PDF)](./email.pdf)  
   Documento de referência sobre e-mail.
 
-- [Fluxo de automação (TXT)](./docs/fluxo_automacao.txt)  
+- [Fluxo de automação (TXT)](./fluxo_automacao.txt)  
   Arquivo de texto com as etapas do fluxo de automação.
 
 ## Site
