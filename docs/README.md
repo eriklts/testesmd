@@ -18,7 +18,3 @@ Repositório de testes para organizar documentos, procedimentos e arquivos de re
 ## Site
 
 Esta página também é publicada pelo GitHub Pages. O conteúdo desta página é carregado a partir deste README.
-
----
-
-*Projeto de teste.*
